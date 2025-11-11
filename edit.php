@@ -33,7 +33,7 @@ $d = mysqli_fetch_array($data);
         <small>Foto saat ini:</small><br>
         <img src="upload/<?= $d['foto']; ?>" width="100"><br><br>
 
-        <input type="submit" name="update" value="Update">
+<input type="submit" name="submit" value="Update Data">
     </form>
 
     <?php

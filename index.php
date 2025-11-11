@@ -1,9 +1,8 @@
-<!-- Update tampilan tabel mahasiswa -->
 <?php include 'koneksi.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Data Mahasiswa</title>
+<title>CRUD Mahasiswa - UTS Pemrograman Web 1202305025</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>

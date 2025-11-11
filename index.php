@@ -1,3 +1,4 @@
+<!-- Update tampilan tabel mahasiswa -->
 <?php include 'koneksi.php'; ?>
 <!DOCTYPE html>
 <html>

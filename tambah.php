@@ -25,7 +25,7 @@
         <label>Foto:</label><br>
         <input type="file" name="foto"><br><br>
 
-        <input type="submit" name="submit" value="Simpan">
+        <input type="submit" name="submit" value="Tambah Data">
     </form>
 
     <?php

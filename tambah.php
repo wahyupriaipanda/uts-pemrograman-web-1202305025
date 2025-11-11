@@ -1,4 +1,17 @@
 <?php include 'koneksi.php'; ?>
+<!-- Membuat form tambah data mahasiswa untuk tugas UTS -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tambah Mahasiswa</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h2>Tambah Mahasiswa</h2>
+  <!-- form -->
+</body>
+</html>
+<?php include 'koneksi.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
